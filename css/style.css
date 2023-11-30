@@ -55,8 +55,8 @@ ul{
     line-height: 1.5; 
     letter-spacing: 0.32px;
 }
-.address .link-cont:hover,
-.address .link-cont:focus{
+.address .link-contacts:hover,
+.address .link-contacts:focus{
     color: #404BBF;
 }
 
