@@ -65,7 +65,7 @@ ul{
     letter-spacing: 1.12px;
     text-transform: capitalize;
 }
-.hero-title-accent{
+.title-accent{
     text-transform: none;
 }
 .hero>.button{
